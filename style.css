@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+
+margin: 0;}
+.page-wrapped{
+    font-size: 0px;
+}
+
+.left-page-wrapped{
+    background-color: rgb(89, 89, 153);
+    width: 150px;
+    height: 60vh;
+    display: inline-block;
+}
+   .Middle-page-wrapped{
+       background-color: olive;
+       width: 500px;
+       height: 60vh;
+       display: inline-block;
+    
+   }
+   
+.first{
+    background-color: darkgreen;
+    width: 500px;
+    height: 10vh;    
+}
+    
+.middle{
+    background-color: orange;
+    width: 500px;
+    height: 40vh;
+ 
+    
+
+   
+}
+.last{
+    background-color: orangered;
+    width: 500px;
+    height: 10vh;
+    
+}
+
+.right-page-wrapped{
+    background-color: orchid;
+    width: 150px;
+    height: 60vh;  
+    display: inline-block;
+}
